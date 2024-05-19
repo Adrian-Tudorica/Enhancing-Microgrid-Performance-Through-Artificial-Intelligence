@@ -21,3 +21,18 @@ Best Generation:
 
 ![image](https://github.com/Adrian-Tudorica/Enhancing-Microgrid-Performance-Through-Artificial-Intelligence/assets/164034888/7c8010df-6a81-42ee-98bb-a40c2b8fd979)
 ![image](https://github.com/Adrian-Tudorica/Enhancing-Microgrid-Performance-Through-Artificial-Intelligence/assets/164034888/e2029180-3016-4fec-b00d-2f77a02ea179)
+
+-
+-
+-
+
+2'nd Attempt
+
+Same + CrossoverFraction - 0.9
+
+Algorithm Generations:
+![image](https://github.com/Adrian-Tudorica/Enhancing-Microgrid-Performance-Through-Artificial-Intelligence/assets/164034888/9d460dea-26e0-432e-8211-d8a0cc2eb163)
+
+Best Generation:
+![image](https://github.com/Adrian-Tudorica/Enhancing-Microgrid-Performance-Through-Artificial-Intelligence/assets/164034888/2fc27052-6b56-4a59-ab1c-8265489f5b88)
+![image](https://github.com/Adrian-Tudorica/Enhancing-Microgrid-Performance-Through-Artificial-Intelligence/assets/164034888/5ce1d820-8a27-45e7-858a-750fbd6bf0d9)
